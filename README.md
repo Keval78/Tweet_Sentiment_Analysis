@@ -57,8 +57,4 @@ Tweepy is one of the library that should be installed using pip. Now in order to
 
 Load SVM pickel file and use it for classification of tweets.
 
-If you want to use already generated pickel file you can download it from below link, it is generated using the same code that i have uploaded here.
-
-https://drive.google.com/file/d/1PyeHdd8AJH5W9eJisltv2Zlba1zTBoNI/view
-
 
